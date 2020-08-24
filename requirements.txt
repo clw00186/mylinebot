@@ -1,0 +1,11 @@
+click==6.7
+Flask==1.0.2
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Script
+gunicorn
+itsdangerous==0.24
+Jinja2
+MarkupSafe==0.23
+Werkzeug==0.15.5
+psycopg2
